@@ -1,0 +1,13 @@
+D:\WMIUNL\FordProg\FordProg\bin\Debug\FordProg.exe.config
+D:\WMIUNL\FordProg\FordProg\bin\Debug\FordProg.exe
+D:\WMIUNL\FordProg\FordProg\bin\Debug\FordProg.pdb
+D:\WMIUNL\FordProg\FordProg\obj\Debug\FordProg.csprojResolveAssemblyReference.cache
+D:\WMIUNL\FordProg\FordProg\obj\Debug\FordProg.exe
+D:\WMIUNL\FordProg\FordProg\obj\Debug\FordProg.pdb
+d:\EKE\5.fv\FordProg_gy\FordProg\FordProg\bin\Debug\FordProg.exe.config
+d:\EKE\5.fv\FordProg_gy\FordProg\FordProg\bin\Debug\FordProg.exe
+d:\EKE\5.fv\FordProg_gy\FordProg\FordProg\bin\Debug\FordProg.pdb
+d:\EKE\5.fv\FordProg_gy\FordProg\FordProg\obj\Debug\FordProg.csprojAssemblyReference.cache
+d:\EKE\5.fv\FordProg_gy\FordProg\FordProg\obj\Debug\FordProg.csproj.CoreCompileInputs.cache
+d:\EKE\5.fv\FordProg_gy\FordProg\FordProg\obj\Debug\FordProg.exe
+d:\EKE\5.fv\FordProg_gy\FordProg\FordProg\obj\Debug\FordProg.pdb
